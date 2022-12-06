@@ -1,14 +1,14 @@
 #                                                     Tech Stop Project !!!
 
-This project is a complete full stack demo protype of a web application that allow users to schedlule and reserve phones from a tech stop location. The site also relatime database updates of teh stock items and estimated wait time for user. Admin can update the database stock in realtime and process user requests. It was built using React native for front end and Spring Boot io java for backend.
+This project is a complete full stack demo protype of a web application that allow users to schedlule and reserve phones from a tech stop location. The site also displays real time database updates of the stock items and estimated wait time for user. Admin can update the database stock in realtime and process user requests. It was built using React native for front end and Spring Boot io java for backend.
 
 ![main_page](https://user-images.githubusercontent.com/17013385/205810398-3089007e-893d-4785-b5d7-612ac0e1d846.png)
 
-The database used is MYSQL and can be recreated from a MYSQL connection linked to the application. The techstop-backend folder has the backend project files need to setup backend service and database.
+The database used is MYSQL and can be recreated from a MYSQL connection linked to the application. The techstop.backend-service repository has the backend project files need to setup backend service and database.
 
 To run this project your going to need to have Node.js installed and an IDE like Visual Studio Code(preffered). You can get the lastet version on node [https://nodejs.org/en/download/]
 
-Once you have java and node installed open project folder inside IDE and navaiagte to techstop-backend folder directory. In the target folder exist  pre-built .JAR that will launch the server.
+Once you have java and node installed open project folder inside IDE and navaiagte to techstop.backend-service repository. In the target folder exist  pre-built .JAR that will launch the server.
 
 Front end can be run by:
 Then open terminal and run the follow commands below:
