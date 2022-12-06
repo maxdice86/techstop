@@ -1,0 +1,30 @@
+table{
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    background-color: white;
+  }
+  
+  table td, table th {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  table tr:nth-child(even){background-color: #f8f5f589;}
+  
+  table tr:hover {background-color: rgba(81, 82, 81, 0.515);}
+  
+  table th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color:rgba(255, 255, 255, 0.621);
+    color: black;
+   
+  }
+
+  tfoot {
+    color: black;
+    font-weight: bold;
+
+  }
