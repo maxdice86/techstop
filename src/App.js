@@ -6,7 +6,6 @@ import Home from './components/Home';
 import Admin from './components/Admin';
 import AppCal from './AppCal';
 import Reserve from './components/Reserve';
-import Table from './components/Table/Table';
 
 function App() {
   return (
