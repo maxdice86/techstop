@@ -1,4 +1,4 @@
-#                                                     Tech Stop Project !!!
+#                                                     Tech Stop Project
 
 This project is a complete full stack demo protype of a web application that allow users to schedlule and reserve phones from a tech stop location. The site also displays real time database updates of the stock items and estimated wait time for user. Admin can update the database stock in realtime and process user requests. It was built using React native for front end and Spring Boot io java for backend.
 
