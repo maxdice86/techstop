@@ -18,7 +18,7 @@ To get load all dependices and also
 ### `npm start` 
 To run the app in the development mode.
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-Make sure you have the backend.exe running for data to be loaded in app.
+Make sure you have the tech stop backend server running for data to be loaded in app.
 
 ![user_reserve view](https://user-images.githubusercontent.com/17013385/205810462-ff41dfbe-5a7b-452f-afdf-ead30e315df1.png)
 
